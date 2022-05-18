@@ -1,5 +1,5 @@
 ################################
-# Docker file for App-gc version 1.0
+# Docker file for fastq preprocess based on GATK best practice version 1.0
 # Base on Ubuntu 20.04 and gatk:4.2.6.1
 # gatk:4.2.6.1
 # samtools:1.7
